@@ -1,1 +1,2 @@
 # odin-recipes
+Working my way through The Odin Project curriculum. I've done a lot the easy stuff before, but mostly wasn't able to make anything useful, and certainly nothing that would let me make a little money. So why do I keep doing this? Just trying to keep my aging brain from going down the road to total incompetence and memory loss. 
