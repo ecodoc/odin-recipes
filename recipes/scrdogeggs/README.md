@@ -1,0 +1,1 @@
+What could be easier than scrambling hot dogs and eggs together. Possibly the fastest cooked meal you could ever have. And do delicious!
